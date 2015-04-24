@@ -5,8 +5,8 @@
 A Python library for word case conversions.
 
 This library is a port of the
-[Clojure library](https://github.com/qerub/camel-snake-kebab) with the
-same name by @qerub.
+[Clojure library with the same name](https://github.com/qerub/camel-snake-kebab)
+by @qerub.
 
 It is available on PyPI and can be installed with
 
@@ -57,6 +57,7 @@ https://github.com/qerub/camel-snake-kebab for more information.
 ## License
 
 Copyright (C) 2015 Tobias Kortkamp
+
 Copyright (C) 2012-2014 Christoffer Sawicki, ToBeReplaced & Brendan Bates
 
 Distributed under the Eclipse Public License v1.0 (see

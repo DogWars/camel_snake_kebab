@@ -1,5 +1,7 @@
 # Camel_SNAKE-kebab
 
+[![Build Status](https://travis-ci.org/t6/camel_snake_kebab.svg?branch=master)](https://travis-ci.org/t6/camel_snake_kebab)
+
 A Python library for word case conversions.
 
 This library is a port of the

@@ -61,4 +61,4 @@ Copyright (C) 2015 Tobias Kortkamp
 Copyright (C) 2012-2014 Christoffer Sawicki, ToBeReplaced & Brendan Bates
 
 Distributed under the Eclipse Public License v1.0 (see
-[epl-v10.html](epl-v10.html)).
+epl-v10.html).

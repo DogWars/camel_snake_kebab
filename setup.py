@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='camel_snake_kebab',
-      version='0.3.0',
+      version='0.3.2',
       description='A Python library for word case conversions',
       url='https://github.com/t6/camel_snake_kebab',
       author='Tobias Kortkamp',

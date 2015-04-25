@@ -39,7 +39,7 @@ It was tested with Python 2.7 and Python 3.4.
 * `PascalCase` aka `CamelCase`
 * `camelCase`
 * `SCREAMING_SNAKE_CASE`
-* `Snake_case`
+* `Camel_Snake_Case`
 * `snake_case`
 * `kebab_case`
 * `Camel_Snake_Case`
